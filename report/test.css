@@ -1,0 +1,5 @@
+{font-family:"Trebuchet MS"}
+table{word-break:break-all;width:100%}
+p {font-weight:bold}
+tr#test{background-color:#27ab9b;}
+tr#test>td {font-weight:bold;text-align:center;}
